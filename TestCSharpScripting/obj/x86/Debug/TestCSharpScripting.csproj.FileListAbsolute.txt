@@ -1,0 +1,9 @@
+D:\Dev\SeNeReKo\LibCSharpScripting\TestCSharpScripting\bin\Debug\TestCSharpScripting.exe.config
+D:\Dev\SeNeReKo\LibCSharpScripting_CSharp\TestCSharpScripting\obj\x86\Debug\TestCSharpScripting.csprojResolveAssemblyReference.cache
+D:\Dev\SeNeReKo\LibCSharpScripting_CSharp\TestCSharpScripting\bin\Debug\TestCSharpScripting.exe.config
+D:\Dev\SeNeReKo\LibCSharpScripting_CSharp\TestCSharpScripting\bin\Debug\TestCSharpScripting.exe
+D:\Dev\SeNeReKo\LibCSharpScripting_CSharp\TestCSharpScripting\bin\Debug\TestCSharpScripting.pdb
+D:\Dev\SeNeReKo\LibCSharpScripting_CSharp\TestCSharpScripting\bin\Debug\LibCSharpScripting.dll
+D:\Dev\SeNeReKo\LibCSharpScripting_CSharp\TestCSharpScripting\bin\Debug\LibCSharpScripting.pdb
+D:\Dev\SeNeReKo\LibCSharpScripting_CSharp\TestCSharpScripting\obj\x86\Debug\TestCSharpScripting.exe
+D:\Dev\SeNeReKo\LibCSharpScripting_CSharp\TestCSharpScripting\obj\x86\Debug\TestCSharpScripting.pdb
